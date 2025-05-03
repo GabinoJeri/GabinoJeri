@@ -123,6 +123,15 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-27" value="Dell Precision 5820 Server&lt;div&gt;(Fax)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-335" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-28" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-100" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-29" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-100" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-100" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
