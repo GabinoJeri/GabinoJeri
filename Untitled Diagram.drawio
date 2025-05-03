@@ -132,6 +132,24 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="-100" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-31" value="Static IP: 10.99.1.26" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1045" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-32" value="Static IP: 10.99.1.27" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-855" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-33" value="Static IP: 10.99.1.28" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-34" value="Ricoh Aficio MP C5502&lt;div&gt;(Office Copier)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-35" value="&lt;div&gt;HP LaserJet M255dw (Front Printer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="40" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-36" value="&lt;div&gt;HP LaserJet M404dn&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Rear Printer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-687.5" y="40" width="107.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
