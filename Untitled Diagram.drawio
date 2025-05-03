@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j0SVRX6bJKmQGoRng51-" name="Page-2">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,8 +81,8 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-10" value="Dell X1026P&lt;div&gt;(Switch)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-860" y="-610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-11" value="Unifi UAP-PRO&lt;div&gt;(W.A.P)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-651" y="-617" width="60" height="30" as="geometry" />
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-11" value="&lt;div&gt;&lt;b&gt;WAYNE-WAP&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-671.5" y="-620" width="101" height="33" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-14" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-990" y="-350" width="150" height="140" as="geometry" />
@@ -117,10 +117,10 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-24" value="Static IP: 10.99.1.11" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-945" y="-200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-25" value="Dell P.E. T440&lt;div&gt;Server&lt;/div&gt;&lt;div&gt;(File / Print)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-25" value="&lt;b&gt;SERVER&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="-330" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-27" value="Dell Precision 5820 Server&lt;div&gt;(Fax)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-27" value="&lt;b&gt;FAX SERVER&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-335" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-28" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
@@ -141,13 +141,13 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-33" value="Static IP: 10.99.1.28" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-665" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-34" value="Ricoh Aficio MP C5502&lt;div&gt;(Office Copier)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-34" value="&lt;b&gt;WAYNE COPIER&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-35" value="&lt;div&gt;HP LaserJet M255dw (Front Printer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-35" value="&lt;div&gt;&lt;b&gt;WAYNE-PRINTER01&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-885" y="40" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-36" value="&lt;div&gt;HP LaserJet M404dn&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Rear Printer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-36" value="&lt;div&gt;&lt;b&gt;WAYNE-PRINTER02&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-687.5" y="40" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
@@ -192,43 +192,43 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-60" value="DHCP Scope (10.99.1.51 - 10.99.1.150)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-980.83" y="-720" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-61" value="Dell-Office01&lt;div&gt;10.99.1.51&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-61" value="&lt;b&gt;Dell-Office01&lt;/b&gt;&lt;div&gt;10.99.1.51&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1215.83" y="-930" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-70" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-1075.83" y="-1020" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-71" value="Dell-Office02&lt;div&gt;10.99.1.52&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-71" value="&lt;b&gt;Dell-Office02&lt;/b&gt;&lt;div&gt;10.99.1.52&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1090.83" y="-930" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-72" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-945.83" y="-1020" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-73" value="Dell-Office03&lt;div&gt;10.99.1.53&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-73" value="&lt;b&gt;Dell-Office03&lt;/b&gt;&lt;div&gt;10.99.1.53&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-960.83" y="-930" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-74" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-1155.83" y="-880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-75" value="Dell-Office04&lt;div&gt;10.99.1.54&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-75" value="&lt;b&gt;Dell-Office04&lt;/b&gt;&lt;div&gt;10.99.1.54&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1170.83" y="-790" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-76" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-1015.83" y="-880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-77" value="Dell-Office05&lt;div&gt;10.99.1.55&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-77" value="&lt;b&gt;Dell-Office05&lt;/b&gt;&lt;div&gt;10.99.1.55&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1030.83" y="-790" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-78" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-690.83" y="-950" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-79" value="Dell-Con01&lt;div&gt;10.99.1.56&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-79" value="&lt;b&gt;Dell-Con01&lt;/b&gt;&lt;div&gt;10.99.1.56&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-705.83" y="-860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-80" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-504.33" y="-950" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-81" value="Dell-Con02&lt;div&gt;10.99.1.57&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-81" value="&lt;b&gt;Dell-Con02&lt;/b&gt;&lt;div&gt;10.99.1.57&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-519.33" y="-860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-83" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=30;" vertex="1" parent="1">
@@ -237,13 +237,13 @@
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-84" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-543.5" y="-583" width="33.5" height="39.88" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-85" value="Dell-AcctCPA01&lt;div&gt;10.99.1.58&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-453.5" y="-573.12" width="93.5" height="30" as="geometry" />
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-85" value="&lt;b&gt;Dell-AcctCPA01&lt;/b&gt;&lt;div&gt;10.99.1.58&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-453.5" y="-573.12" width="93.5" height="33.12" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-446.75" y="-483" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9bt5hfUO0HVtnm0HjsPu-87" value="Dell-AcctCPA02&lt;div&gt;10.99.1.59&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-87" value="&lt;b&gt;Dell-AcctCPA02&lt;/b&gt;&lt;div&gt;10.99.1.59&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-453.5" y="-396.12" width="93.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-88" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
@@ -328,6 +328,12 @@
         </mxCell>
         <mxCell id="q5W243BHsTnBhDA71Ea3-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-543.5" y="-583" width="33.5" height="39.88" as="geometry" />
+        </mxCell>
+        <mxCell id="q5W243BHsTnBhDA71Ea3-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q5W243BHsTnBhDA71Ea3-16" value="Static IP:10.99.2.26" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
