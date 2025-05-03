@@ -330,10 +330,19 @@
           <mxGeometry x="-543.5" y="-583" width="33.5" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="q5W243BHsTnBhDA71Ea3-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-390" width="120" height="120" as="geometry" />
+          <mxGeometry x="-890" y="-330" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q5W243BHsTnBhDA71Ea3-16" value="Static IP:10.99.2.26" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="-340" width="60" height="30" as="geometry" />
+          <mxGeometry x="-860" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rBMxxALMnqQ6TyiWJb-1-1" value="&lt;b&gt;CLIFTON-PRINTER01&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="-370" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rBMxxALMnqQ6TyiWJb-1-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.414;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rBMxxALMnqQ6TyiWJb-1-1" target="q5W243BHsTnBhDA71Ea3-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-430" as="sourcePoint" />
+            <mxPoint x="-750" y="-480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
