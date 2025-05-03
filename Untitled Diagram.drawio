@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j0SVRX6bJKmQGoRng51-" name="Page-2">
-    <mxGraphModel dx="2388" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,33 @@
         </mxCell>
         <mxCell id="9bt5hfUO0HVtnm0HjsPu-36" value="&lt;div&gt;HP LaserJet M404dn&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Rear Printer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-687.5" y="40" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1125" y="-860" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-39" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1025" y="-860" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-40" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1125" y="-970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1025" y="-970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-42" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1225" y="-920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-43" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-44" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-603.5" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-45" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="-830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9bt5hfUO0HVtnm0HjsPu-46" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-598.5" y="-830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
