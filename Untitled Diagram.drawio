@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="4">
   <diagram id="OEpcH9aQiRdJSrWQr7b0" name="Page-1">
     <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -402,6 +402,137 @@
           <mxGeometry x="-440" y="-503.12" width="93.5" height="33.12" as="geometry" />
         </mxCell>
         <mxCell id="2lLQirM3w4qfK4GHTVVo-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TrW_FNJCwtHvbl764BW8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-530" as="sourcePoint" />
+            <mxPoint x="-750" y="-580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-HTyM8uZ8J74AN6EvUch" name="Page-4">
+    <mxGraphModel dx="2626" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="-563" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-3" value="" style="shape=mxgraph.cisco.routers.wireless_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="-557" width="78" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.994;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MugiSlvdgnOGNUrsKVbX-1" target="MugiSlvdgnOGNUrsKVbX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-610" y="-300" as="sourcePoint" />
+            <mxPoint x="-560" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MugiSlvdgnOGNUrsKVbX-2" target="MugiSlvdgnOGNUrsKVbX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-610" y="-300" as="sourcePoint" />
+            <mxPoint x="-560" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-6" value="Sonic WALL TZ370&lt;div&gt;(VPN Firewall / Routerr)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="-600" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-7" value="Dell X1018P&lt;div&gt;(Switch)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-8" value="&lt;div&gt;&lt;b&gt;WP-WAP&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-681.5" y="-620" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-9" value="Static IP: 10.99.3.3" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-10" value="Static IP: 10.99.3.5" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-656.5" y="-470" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-11" value="Static IP: 10.99.3.1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="-480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-538.44" width="33.5" height="39.88" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-13" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-330" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-14" value="Static IP:10.99.3.26" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-15" value="&lt;b&gt;WP-PRINTER01&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="-370" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.414;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MugiSlvdgnOGNUrsKVbX-15" target="MugiSlvdgnOGNUrsKVbX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-430" as="sourcePoint" />
+            <mxPoint x="-750" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-17" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1110.83" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="-1030" as="sourcePoint" />
+            <mxPoint x="-1190" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="-680" as="sourcePoint" />
+            <mxPoint x="-1190" y="-680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1190" y="-680" as="sourcePoint" />
+            <mxPoint x="-1190" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="-680" as="sourcePoint" />
+            <mxPoint x="-320" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-22" value="DHCP Assigned addresses" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-730" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-23" value="DHCP Scope (10.99.3.51 - 10.99.3.150)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-710" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-24" value="&lt;b&gt;WP-WKSTN01&lt;/b&gt;&lt;div&gt;10.99.3.51&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1125.83" y="-910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-985.0000000000001" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-26" value="&lt;b&gt;WP-WKSTN01&lt;/b&gt;&lt;div&gt;10.99.3.52&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1000.0000000000001" y="-910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-27" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-595" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-28" value="&lt;b&gt;WP-EXAM01&lt;/b&gt;&lt;div&gt;10.99.3.53&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-29" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-470.5" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-30" value="&lt;b&gt;WP-EXAM02&lt;/b&gt;&lt;div&gt;10.99.3.54&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-485.5" y="-910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-31" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-433.25" y="-590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-32" value="&lt;b&gt;WP-LAPTOP01&lt;/b&gt;&lt;br&gt;&lt;div&gt;10.99.3.55&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-503.12" width="93.5" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="MugiSlvdgnOGNUrsKVbX-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="MugiSlvdgnOGNUrsKVbX-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-800" y="-530" as="sourcePoint" />
             <mxPoint x="-750" y="-580" as="targetPoint" />
