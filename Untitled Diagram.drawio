@@ -280,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ihVSi9YZAQByJe2NGXO-" name="Page-3">
-    <mxGraphModel dx="2626" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3026" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,11 +323,8 @@
         <mxCell id="q5W243BHsTnBhDA71Ea3-11" value="Static IP: 10.99.2.1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1095" y="-480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q5W243BHsTnBhDA71Ea3-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="-543.5" y="-489.88" width="33.5" height="39.88" as="geometry" />
-        </mxCell>
-        <mxCell id="q5W243BHsTnBhDA71Ea3-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="-543.5" y="-583" width="33.5" height="39.88" as="geometry" />
+        <mxCell id="q5W243BHsTnBhDA71Ea3-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-538.44" width="33.5" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="q5W243BHsTnBhDA71Ea3-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
           <mxGeometry x="-890" y="-330" width="120" height="120" as="geometry" />
@@ -343,6 +340,66 @@
             <mxPoint x="-800" y="-430" as="sourcePoint" />
             <mxPoint x="-750" y="-480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1200.83" y="-1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360.83" y="-1040" as="sourcePoint" />
+            <mxPoint x="-1230.83" y="-1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360.83" y="-690" as="sourcePoint" />
+            <mxPoint x="-1230.83" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1230.83" y="-690" as="sourcePoint" />
+            <mxPoint x="-1230.83" y="-1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360.83" y="-690" as="sourcePoint" />
+            <mxPoint x="-360.83" y="-1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-6" value="DHCP Assigned addresses" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-910.83" y="-740" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-7" value="DHCP Scope (10.99.2.51 - 10.99.2.150)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-980.83" y="-720" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-8" value="&lt;b&gt;CLIFTON-WKSTN01&lt;/b&gt;&lt;div&gt;10.99.2.51&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1215.83" y="-930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-21" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1075" y="-1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-22" value="&lt;b&gt;CLIFTON-WKSTN01&lt;/b&gt;&lt;div&gt;10.99.2.52&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="-930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-23" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-805" y="-1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-24" value="&lt;b&gt;CLIFTON-EXAM01&lt;/b&gt;&lt;div&gt;10.99.2.53&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-680.5" y="-1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrW_FNJCwtHvbl764BW8-26" value="&lt;b&gt;CLIFTON-EXAM02&lt;/b&gt;&lt;div&gt;10.99.2.54&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-695.5" y="-930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2lLQirM3w4qfK4GHTVVo-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-433.25" y="-590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2lLQirM3w4qfK4GHTVVo-2" value="&lt;b&gt;CLIFTON-LAPTOP01&lt;/b&gt;&lt;br&gt;&lt;div&gt;10.99.2.55&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-503.12" width="93.5" height="33.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
